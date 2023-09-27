@@ -2,7 +2,7 @@
 
 Welcome to the Random Meme Generator app! This dynamic React application brings humor to your fingertips, allowing you to generate hilarious memes in two exciting ways. 🎉
 
-![Demo](./src/Assets/Random%20GIF.mp4)
+![Demo](./src/Assets/demoimg.png)
 
 ## 📋 Features
 
