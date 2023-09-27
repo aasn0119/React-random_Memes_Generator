@@ -17,31 +17,37 @@ Welcome to the Random Meme Generator app! This dynamic React application brings 
 
 Getting started with the Random Meme Generator is a breeze:
 
-1. **Clone the Repository:**
+1. Navigate to the directory where you want to store the project. You can use the `cd` command to change directories. For example, to navigate to your desktop, you can use:
 
    ```bash
-   git clone https://github.com/your-username/random-meme-generator.git
+   cd ~/Desktop
    ```
 
-2. **Navigate to the Project Folder:**
+2. Clone the repository by running the following command. This will create a copy of the project on your computer:
 
    ```bash
-   cd random-meme-generator
+   git clone https://github.com/aasn0119/React-random_Memes_Generator.git
    ```
 
-3. **Install Dependencies:**
+3. Once the repository is cloned, navigate to the project folder:
+
+   ```bash
+   cd React-random_Memes_Generator
+   ```
+
+4. **Install Dependencies:**
 
    ```bash
    npm install
    ```
 
-4. **Start the App:**
+5. **Start the App:**
 
    ```bash
    npm start
    ```
 
-5. **Open Your Browser:**
+6. **Open Your Browser:**
 
    The app will be running at `http://localhost:3000`.
 
